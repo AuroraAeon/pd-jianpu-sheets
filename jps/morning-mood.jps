@@ -1,0 +1,14 @@
+#============================以下为描述头定义==========================
+V: 1.0
+B: Morning Mood
+B: 晨景
+Z: Edvard Grieg, Peer Gynt (1875) — Grieg d.1907; public domain
+Z: Public Domain / 公有领域｜rendered with yetist/jianpu-spec (jps2svg)
+D: C
+P: 6/8
+J: Andante
+#============================以下开始简谱主体==========================
+Q: 5, - 6, | 1 - 2 | 3 - 2 | 1 - 6, |
+Q: 5, - 6, | 1 - 2 | 3 - - | 3 - - |
+Q: 5 - 4 | 3 - 2 | 1 - 6, | 5, - - ||
+
